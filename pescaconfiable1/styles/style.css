@@ -1,0 +1,35 @@
+html {
+  font-size: 20px; 
+  font-family: "Josefin Sans", sans-serif; 
+}
+h1 {
+  font-size: 50px;
+  text-align: center;
+   }
+
+p, li, a {
+  font-size: 25px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+html {
+  background-color: #DF4444;
+}
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #32CD32;
+  padding: 0 415px 20px 20px;
+  border: 20px solid black;
+}
+h1 {
+  margin: 20;
+  padding: 20x 0;
+  color: #FF00FF;
+  text-shadow: 2px 2px 1px purple;
+ }
+img {
+  display: block;
+  margin: 0 auto;
+}
